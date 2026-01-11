@@ -1,7 +1,7 @@
 # Exploring GAN Variants for Balancing Imbalanced Datasets
 
-**Course:** Special Topics in Artificial Intelligence (Spring 2024/2025)
-**Student Name:** [Your Name Here]
+**Course:** Special Topics in Artificial Intelligence (Fall 2025 - 2026)
+**Student Name:** Laya Salah Swiety.
 **University:** KASIT, University of Jordan
 
 ## Project Overview
